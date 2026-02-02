@@ -9369,7 +9369,7 @@
     "icon": "https://avatars.githubusercontent.com/u/71636191?v=4",
     "version": "1.4.5",
     "latestVersion": "1.4.5",
-    "downloadUrl": "https://github.com/rustdesk/rustdesk/releases/download/1.4.5/rustdesk-1.4.5-aarch64-signed.apk",
+    "downloadUrl": "https://github.com/rustdesk/rustdesk/releases/download/1.4.5/rustdesk-1.4.5-universal-signed.apk",
     "repoUrl": "https://github.com/rustdesk/rustdesk",
     "githubRepo": "rustdesk/rustdesk",
     "gitlabRepo": "",
