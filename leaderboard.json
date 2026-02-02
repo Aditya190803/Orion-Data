@@ -64,12 +64,12 @@
   },
   {
     "username": "Vector",
-    "xp": 390,
-    "level": 7,
+    "xp": 440,
+    "level": 8,
     "title": "Rookie",
     "class": "Warrior",
     "avatar_url": "https://api.dicebear.com/9.x/bottts/svg?seed=Mecha&backgroundColor=c0aede",
-    "last_updated": 1769581067481
+    "last_updated": 1769996895090
   },
   {
     "username": "SKY",
