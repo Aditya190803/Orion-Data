@@ -286,5 +286,14 @@
     "class": "Warrior",
     "avatar_url": "https://api.dicebear.com/9.x/pixel-art/svg?seed=Wyatt",
     "last_updated": 1769987002033
+  },
+  {
+    "username": "_vivan_xd",
+    "xp": 80,
+    "level": 1,
+    "title": "Rookie",
+    "class": "Warrior",
+    "avatar_url": "https://api.dicebear.com/9.x/bottts/svg?seed=Mecha&backgroundColor=c0aede",
+    "last_updated": 1770007010846
   }
 ]
