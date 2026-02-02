@@ -1,0 +1,23 @@
+apps.json
+  f0a9efd27ddd3bfc 9364-9390
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.40",
+  "base_commit_sha": "9e62da7fb5ae4669963e112d37dc36c2a505c521",
+  "prompts": {
+    "f0a9efd27ddd3bfc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "7da4412f-5d93-4f4b-8390-15ab68548e3d",
+        "model": "copilot/gemini-3-flash-preview"
+      },
+      "human_author": "Aditya Mer <aditya.mer@somaiya.edu>",
+      "messages": [],
+      "total_additions": 28,
+      "total_deletions": 1,
+      "accepted_lines": 27,
+      "overriden_lines": 0
+    }
+  }
+}
